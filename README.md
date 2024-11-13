@@ -5,12 +5,15 @@
 _SOBRE ESSE PROJETO:
 
 O objetivo deste projeto é criar uma marca especializada na venda de joias e acessórios de prata, com foco em peças exclusivas, design diferenciado e alto valor agregado. Buscando atender a um público que valoriza produtos de alta qualidade, beleza e durabilidade, o projeto visa estabelecer uma operação comercial sustentável e inovadora no mercado de joias, oferecendo aos clientes uma experiência de compra única. 
+
 _MISSÃO:
 O propósito e a razão para o negócio de prata inclui:
 Investimento: Comprar e vender prata como uma forma de proteger o patrimônio, diversificar investimentos ou especular sobre seu preço.
 Moeda ou investimento em barras e moedas: Muitas pessoas compram prata em formas físicas, como moedas ou barras, com o intuito de preservar valor ao longo do tempo.
+
 _VISÃO:
 Liderança no mercado de metais preciosos e investimentos.Inovação no acesso ao investimento em prata, e facilitar o acesso dos investidores individuais à compra de prata.
+
 _VALORES:
 Qualidade e Excelência.
 Compromisso com a qualidade.
