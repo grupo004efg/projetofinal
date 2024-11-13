@@ -46,4 +46,5 @@ _chromebook: utilizado na pesquisa e colaboração na criaçao do site .
 _projeto: utilizado na projeção do projeto final.
 
 _slide: utilizado na apresentação para visualização de todo o projeto do site .
-    
+
+ _Github e Gitdev
